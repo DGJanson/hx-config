@@ -28,6 +28,6 @@ command = "pylsp"
 
 [[language]]
 name = "python"
-language-servers = ["scls", "pylsp"]
-auto-format = false
+language-servers = ["scls", "ruff", "pylsp"]
+auto-format = true
 

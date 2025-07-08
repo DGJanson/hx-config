@@ -2,6 +2,7 @@ theme="everforest"
 
 [editor]
 line-number="relative"
+continue-comments=false
 
 [editor.cursor-shape]
 insert="bar"
